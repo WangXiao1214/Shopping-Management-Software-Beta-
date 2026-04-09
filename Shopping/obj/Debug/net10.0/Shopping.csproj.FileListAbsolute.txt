@@ -1,0 +1,14 @@
+E:\CSharp_Project\Shopping\Shopping\bin\Debug\net10.0\Shopping.exe
+E:\CSharp_Project\Shopping\Shopping\bin\Debug\net10.0\Shopping.deps.json
+E:\CSharp_Project\Shopping\Shopping\bin\Debug\net10.0\Shopping.runtimeconfig.json
+E:\CSharp_Project\Shopping\Shopping\bin\Debug\net10.0\Shopping.dll
+E:\CSharp_Project\Shopping\Shopping\bin\Debug\net10.0\Shopping.pdb
+E:\CSharp_Project\Shopping\Shopping\obj\Debug\net10.0\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp_Project\Shopping\Shopping\obj\Debug\net10.0\Shopping.AssemblyInfoInputs.cache
+E:\CSharp_Project\Shopping\Shopping\obj\Debug\net10.0\Shopping.AssemblyInfo.cs
+E:\CSharp_Project\Shopping\Shopping\obj\Debug\net10.0\Shopping.csproj.CoreCompileInputs.cache
+E:\CSharp_Project\Shopping\Shopping\obj\Debug\net10.0\Shopping.dll
+E:\CSharp_Project\Shopping\Shopping\obj\Debug\net10.0\refint\Shopping.dll
+E:\CSharp_Project\Shopping\Shopping\obj\Debug\net10.0\Shopping.pdb
+E:\CSharp_Project\Shopping\Shopping\obj\Debug\net10.0\Shopping.genruntimeconfig.cache
+E:\CSharp_Project\Shopping\Shopping\obj\Debug\net10.0\ref\Shopping.dll
