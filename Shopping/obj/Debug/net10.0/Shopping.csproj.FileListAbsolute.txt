@@ -12,3 +12,4 @@ E:\CSharp_Project\Shopping\Shopping\obj\Debug\net10.0\refint\Shopping.dll
 E:\CSharp_Project\Shopping\Shopping\obj\Debug\net10.0\Shopping.pdb
 E:\CSharp_Project\Shopping\Shopping\obj\Debug\net10.0\Shopping.genruntimeconfig.cache
 E:\CSharp_Project\Shopping\Shopping\obj\Debug\net10.0\ref\Shopping.dll
+E:\CSharp_Project\Shopping\Shopping\obj\Debug\net10.0\Shopping.sourcelink.json

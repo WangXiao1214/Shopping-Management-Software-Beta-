@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\CSharp_Project\\Shopping\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3AA7A008-1AC1-1D68-AB8C-9EA872FF3776}|Shopping\\Shopping.csproj|e:\\csharp_project\\shopping\\shopping\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA7A008-1AC1-1D68-AB8C-9EA872FF3776}|Shopping\\Shopping.csproj|solutionrelative:shopping\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3AA7A008-1AC1-1D68-AB8C-9EA872FF3776}|Shopping\\Shopping.csproj|e:\\csharp_project\\shopping\\shopping\\service\\goodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AA7A008-1AC1-1D68-AB8C-9EA872FF3776}|Shopping\\Shopping.csproj|solutionrelative:shopping\\service\\goodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\CSharp_Project\\Shopping\\Shopping\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "Shopping\\Model\\Customer.cs",
+              "ToolTip": "E:\\CSharp_Project\\Shopping\\Shopping\\Model\\Customer.cs",
+              "RelativeToolTip": "Shopping\\Model\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T13:36:33.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "GoodService.cs",
               "DocumentMoniker": "E:\\CSharp_Project\\Shopping\\Shopping\\Service\\GoodService.cs",
               "RelativeDocumentMoniker": "Shopping\\Service\\GoodService.cs",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\CSharp_Project\\Shopping\\Shopping\\Program.cs",
               "RelativeDocumentMoniker": "Shopping\\Program.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "Shopping\\Program.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T11:47:11.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T11:47:11.813Z"
             }
           ]
         }
