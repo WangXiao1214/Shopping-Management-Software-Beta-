@@ -10,9 +10,7 @@ namespace Shopping.Repository
     {
         private readonly GenerateRandom _goodGenerator = new GenerateRandom();
         private readonly List<Good> _myShopGood;
-
-        public List<Good> MyShopGood {  get { return _myShopGood; } }
-
+        public IReadOnlyList<Good> MyShopGood => _myShopGood;
         public GoodRepository(int count)
         {
             _myShopGood = _goodGenerator.GenerateRandomGoods(count);

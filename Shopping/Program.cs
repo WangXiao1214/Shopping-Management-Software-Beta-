@@ -1,32 +1,29 @@
 ﻿using Shopping.Service;
 using Shopping.Model;
 
-
-
-
-
 namespace Shopping
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            ServiceSystem serviceSystem = new ServiceSystem();
+            serviceSystem.SysCustomerAuthService.Register("122654654", "cidaofjaldfja", "P1");
 
-            GoodService service = new GoodService();
-            Customer P1 = new Customer();
-            P1.Name = "Mike";
-            Customer P2 = new Customer();
-            P2.Name = "John";
+            try
+            {
+                Customer P1 = serviceSystem.SysCustomerAuthService.Login("122654654", "cidaofjaldfja");
 
-            /// 查询超市中有多少商品
-            Console.WriteLine("超市中含有的商品如下")
-;            service.QueryAllGoods();
+                // serviceSystem.SysGoodService.QueryAllGoods();
+                // serviceSystem.SysCustomerService.QueryAllCustomers();
 
-            Console.WriteLine("\n顾客1购买的商品如下");
-            /// 从超市中购买一些物品
-            P1.GoodList = service.GetSomeGoods(50);
-            Console.WriteLine("\n顾客1购买的商品总额");
-            service.GetGoodInfo(P1);
+                serviceSystem.SysGoodService.GetSomeGoods(P1, 20);
+                serviceSystem.SysGoodService.GetGoodInfo(P1);
+            }
+            catch
+            {
+                throw new Exception("Login failed, user does not exist or password is incorrect.");
+            }
 
         }
     }

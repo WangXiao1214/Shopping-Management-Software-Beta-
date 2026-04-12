@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "E:\\CSharp_Project\\Shopping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3AA7A008-1AC1-1D68-AB8C-9EA872FF3776}|Shopping\\Shopping.csproj|e:\\csharp_project\\shopping\\shopping\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AA7A008-1AC1-1D68-AB8C-9EA872FF3776}|Shopping\\Shopping.csproj|solutionrelative:shopping\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3AA7A008-1AC1-1D68-AB8C-9EA872FF3776}|Shopping\\Shopping.csproj|e:\\csharp_project\\shopping\\shopping\\service\\goodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AA7A008-1AC1-1D68-AB8C-9EA872FF3776}|Shopping\\Shopping.csproj|solutionrelative:shopping\\service\\goodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3AA7A008-1AC1-1D68-AB8C-9EA872FF3776}|Shopping\\Shopping.csproj|e:\\csharp_project\\shopping\\shopping\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA7A008-1AC1-1D68-AB8C-9EA872FF3776}|Shopping\\Shopping.csproj|solutionrelative:shopping\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA7A008-1AC1-1D68-AB8C-9EA872FF3776}|Shopping\\Shopping.csproj|e:\\csharp_project\\shopping\\shopping\\service\\customerauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA7A008-1AC1-1D68-AB8C-9EA872FF3776}|Shopping\\Shopping.csproj|solutionrelative:shopping\\service\\customerauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA7A008-1AC1-1D68-AB8C-9EA872FF3776}|Shopping\\Shopping.csproj|e:\\csharp_project\\shopping\\shopping\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA7A008-1AC1-1D68-AB8C-9EA872FF3776}|Shopping\\Shopping.csproj|solutionrelative:shopping\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA7A008-1AC1-1D68-AB8C-9EA872FF3776}|Shopping\\Shopping.csproj|e:\\csharp_project\\shopping\\shopping\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA7A008-1AC1-1D68-AB8C-9EA872FF3776}|Shopping\\Shopping.csproj|solutionrelative:shopping\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3AA7A008-1AC1-1D68-AB8C-9EA872FF3776}|Shopping\\Shopping.csproj|e:\\csharp_project\\shopping\\shopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AA7A008-1AC1-1D68-AB8C-9EA872FF3776}|Shopping\\Shopping.csproj|solutionrelative:shopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA7A008-1AC1-1D68-AB8C-9EA872FF3776}|Shopping\\Shopping.csproj|e:\\csharp_project\\shopping\\shopping\\service\\servicesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA7A008-1AC1-1D68-AB8C-9EA872FF3776}|Shopping\\Shopping.csproj|solutionrelative:shopping\\service\\servicesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA7A008-1AC1-1D68-AB8C-9EA872FF3776}|Shopping\\Shopping.csproj|e:\\csharp_project\\shopping\\shopping\\interface\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA7A008-1AC1-1D68-AB8C-9EA872FF3776}|Shopping\\Shopping.csproj|solutionrelative:shopping\\interface\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA7A008-1AC1-1D68-AB8C-9EA872FF3776}|Shopping\\Shopping.csproj|e:\\csharp_project\\shopping\\shopping\\interface\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA7A008-1AC1-1D68-AB8C-9EA872FF3776}|Shopping\\Shopping.csproj|solutionrelative:shopping\\interface\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +46,117 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "E:\\CSharp_Project\\Shopping\\Shopping\\Model\\Customer.cs",
-              "RelativeDocumentMoniker": "Shopping\\Model\\Customer.cs",
-              "ToolTip": "E:\\CSharp_Project\\Shopping\\Shopping\\Model\\Customer.cs",
-              "RelativeToolTip": "Shopping\\Model\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAA2AAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "ServiceSystem.cs",
+              "DocumentMoniker": "E:\\CSharp_Project\\Shopping\\Shopping\\Service\\ServiceSystem.cs",
+              "RelativeDocumentMoniker": "Shopping\\Service\\ServiceSystem.cs",
+              "ToolTip": "E:\\CSharp_Project\\Shopping\\Shopping\\Service\\ServiceSystem.cs",
+              "RelativeToolTip": "Shopping\\Service\\ServiceSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T13:36:33.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-10T03:24:23Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GoodService.cs",
               "DocumentMoniker": "E:\\CSharp_Project\\Shopping\\Shopping\\Service\\GoodService.cs",
               "RelativeDocumentMoniker": "Shopping\\Service\\GoodService.cs",
               "ToolTip": "E:\\CSharp_Project\\Shopping\\Shopping\\Service\\GoodService.cs",
               "RelativeToolTip": "Shopping\\Service\\GoodService.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAAwEwAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAowA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T12:51:45.879Z",
+              "WhenOpened": "2026-04-11T04:30:47.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "E:\\CSharp_Project\\Shopping\\Shopping\\Interface\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Shopping\\Interface\\ICustomerService.cs",
+              "ToolTip": "E:\\CSharp_Project\\Shopping\\Shopping\\Interface\\ICustomerService.cs",
+              "RelativeToolTip": "Shopping\\Interface\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T04:32:47.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "E:\\CSharp_Project\\Shopping\\Shopping\\Interface\\IBaseService.cs",
+              "RelativeDocumentMoniker": "Shopping\\Interface\\IBaseService.cs",
+              "ToolTip": "E:\\CSharp_Project\\Shopping\\Shopping\\Interface\\IBaseService.cs",
+              "RelativeToolTip": "Shopping\\Interface\\IBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T04:26:50.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "E:\\CSharp_Project\\Shopping\\Shopping\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Shopping\\Repository\\CustomerRepository.cs",
+              "ToolTip": "E:\\CSharp_Project\\Shopping\\Shopping\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "Shopping\\Repository\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T03:14:46.085Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CustomerAuthService.cs",
+              "DocumentMoniker": "E:\\CSharp_Project\\Shopping\\Shopping\\Service\\CustomerAuthService.cs",
+              "RelativeDocumentMoniker": "Shopping\\Service\\CustomerAuthService.cs",
+              "ToolTip": "E:\\CSharp_Project\\Shopping\\Shopping\\Service\\CustomerAuthService.cs",
+              "RelativeToolTip": "Shopping\\Service\\CustomerAuthService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAFMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T02:57:43.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\CSharp_Project\\Shopping\\Shopping\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "Shopping\\Model\\Customer.cs",
+              "ToolTip": "E:\\CSharp_Project\\Shopping\\Shopping\\Model\\Customer.cs",
+              "RelativeToolTip": "Shopping\\Model\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T02:33:16.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "E:\\CSharp_Project\\Shopping\\Shopping\\Service\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Shopping\\Service\\CustomerService.cs",
+              "ToolTip": "E:\\CSharp_Project\\Shopping\\Shopping\\Service\\CustomerService.cs",
+              "RelativeToolTip": "Shopping\\Service\\CustomerService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T02:32:08.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\CSharp_Project\\Shopping\\Shopping\\Program.cs",
               "RelativeDocumentMoniker": "Shopping\\Program.cs",
               "ToolTip": "E:\\CSharp_Project\\Shopping\\Shopping\\Program.cs",
               "RelativeToolTip": "Shopping\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T11:47:11.813Z"
+              "WhenOpened": "2026-04-11T01:58:50.508Z"
             }
           ]
         }
